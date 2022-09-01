@@ -338,10 +338,28 @@ section {
   width: 65%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 40%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .solidity {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .web3 {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .boot {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .exp {
+  width: 55%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mog {
   width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .tailwind {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .next {
+  width: 60%;
 }
 
 .stat-title {
