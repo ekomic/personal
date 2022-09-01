@@ -175,6 +175,7 @@ section {
             width: 68%;
             margin-left: 4rem;
             background-color: var(--color-black);
+            // property-background: cover !important;
             transition: all .4s ease-in-out;
             img {
                 width: 100%;
@@ -308,8 +309,14 @@ section {
                     .css { width: 80%; }
                     .js { width: 75%; }
                     .react{ width: 65%; }
-                    .node{ width: 40%; }
-                    .solidity{ width: 50%; }
+                    .node{ width: 50%; }
+                    .solidity{ width: 70%; }
+                    .web3{ width: 90%; }
+                    .boot{ width: 80%; }
+                    .exp{ width: 55%; }
+                    .mog{ width: 50%; }
+                    .tailwind{ width: 60%; }
+                    .next{ width: 60%; }
                 }
             }
         }
