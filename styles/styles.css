@@ -23,6 +23,16 @@
   --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
 }
 
+.chris {
+  background-color: var(--color-white);
+  color: var(--color-grey-3);
+  border: 2px solid var(--color-grey-8); /* Green */
+  display: block;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
 .light-mode {
   --color-primary: #FFFFFF;
   --color-secondary: #F56692;
